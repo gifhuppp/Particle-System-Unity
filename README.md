@@ -22,7 +22,7 @@ Import the package [Particle-System-Unity/Package/Particle_System.unitypackage](
 
 
 ### IDE/Game engine : 
-Unity 6.2 (6000.2.8f1)
+Unity 6.3 LTS (6000.3.2f1)
 
 
 
@@ -72,5 +72,5 @@ Unity 6.2 (6000.2.8f1)
 &nbsp;
 
 
-© 2017-2025. Developed by Bharath Vishal G (https://github.com/BharathVishal).
+© 2017-2026. Developed by Bharath Vishal G (https://github.com/BharathVishal).
 Thank you. :slightly_smiling_face:
